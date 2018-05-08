@@ -7,9 +7,9 @@ L'ordre est le suivant:
     1- Signin
     2- Formulaire 1 choix des types de déchets
     3- Formulaire 2 choix des quantités
-    4- Page de checkout
+    4- Page de checkout (résultat de l'api)
 
-Créez tous les fichiers qui vous sembles nécéssaires (exemple App.js). 
+Créez tous les fichiers qui vous semblent nécessaires (exemple App.js). 
 Inutile de coder, indiquez juste en commentaire:
  - Le but du module.
  - Les dépendances avec les autre modules en utilisant le mot clef ``import```.
@@ -48,8 +48,8 @@ POST /signin
 # Ecrans
 
 <div align="center">
-  <img width=100 src="docs/images/login.png"/>
-  <img width=100 src="docs/images/estimation.png"/>
-  <img width=100 src="docs/images/step-1.png"/>
-  <img width=100 src="docs/images/step-2.png"/>
+  <img width=200 src="docs/images/login.png"/>
+  <img width=200 src="docs/images/step-1.png"/>
+  <img width=200 src="docs/images/step-2.png"/>
+  <img width=200 src="docs/images/estimation.png"/>
 </div>
