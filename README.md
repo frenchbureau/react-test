@@ -9,7 +9,7 @@ L'ordre est le suivant:
     3- Formulaire 2 choix des quantités
     4- Page de checkout (résultat de l'api)
 
-Créez tous les fichiers qui vous semblent nécessaires (exemple App.js). 
+Créez tous les fichiers qui vous semblent nécessaires (exemple App.js).
 Inutile de coder, indiquez juste en commentaire:
  - Le but du module.
  - Les dépendances avec les autre modules en utilisant le mot clef ``import```.
@@ -42,6 +42,9 @@ Libre à vous de la changer si vous ne trouvez aucun intéret à utiliser redux.
 Complétez ici la liste des endpoints de l'api nécéssaire au bon fonctionnement de l'application.
 ```
 POST /signin
+POST /setcommand
+GET  /getprice
+GET  /checkpromo
 ```
 
 
